@@ -58,6 +58,7 @@ generic:
 - lazydfu
 - libipn
 - lithium
+- load-my-resources
 - make_bubbles_pop
 - memoryleakfix
 - mixintrace
@@ -74,7 +75,6 @@ generic:
 - numeral-ping
 - owo-lib
 - particle-rain
-- paxi
 - presence-footsteps
 - puzzles-lib
 - railoptimization
