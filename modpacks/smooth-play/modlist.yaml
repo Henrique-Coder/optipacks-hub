@@ -1,4 +1,6 @@
 generic:
+- amecs
+- antighost
 - appleskin
 - architectury-api
 - auth-me
@@ -9,8 +11,10 @@ generic:
 - better-suggestions
 - bettercommandblockui
 - blur-fabric
+- boat-item-view
 - boathud
 - bobby
+- bookshelf-lib
 - bounced
 - c2me-fabric
 - cameraoverhaul
@@ -27,9 +31,11 @@ generic:
 - dont-untoggle-sprint
 - draggable-lists
 - dynamic-fps
+- dynamiccrosshair
 - effect-descriptions
 - emi
 - emitrades
+- enchantment-descriptions
 - enhanced-attack-indicator
 - entity-model-features
 - entityculling
@@ -38,6 +44,7 @@ generic:
 - explosive-enhancement
 - fabric-api
 - fabric-language-kotlin
+- fallingleaves
 - faster-random
 - ferrite-core
 - fog-looks-good-now-fabric
@@ -63,6 +70,7 @@ generic:
 - memoryleakfix
 - mixintrace
 - mod-loading-screen
+- modelfix
 - modern-ui
 - modernfix
 - modmenu
@@ -96,6 +104,7 @@ generic:
 - stutterfix
 - symbol-chat
 - threadtweak
+- tooltipfix
 - tps-hud
 - visuality
 - wakes
