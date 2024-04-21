@@ -1,0 +1,12 @@
+about:
+  last-update: 1713737702
+  update-count: 55
+info:
+  authors:
+  - Henrique-Coder
+  description: A modpack focused on performance, smoothness and elegance.
+  fancy-name: Smooth Play
+  loader: fabric
+  modpack-version: 0.0.3
+  raw-name: smooth-play
+  version: 1.20.4
