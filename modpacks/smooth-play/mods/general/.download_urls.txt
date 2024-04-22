@@ -55,7 +55,7 @@ https://cdn.modrinth.com/data/TqCKvqjC/versions/r45QO9Cd/loadmyresources_fabric_
 https://cdn.modrinth.com/data/TyTPFOiF/versions/cvbG5DGo/seamless-loading-screen-2.1.1+1.20.4-fabric.jar
 https://cdn.modrinth.com/data/UVtY3ZAC/versions/yYRr8YuJ/EnchantmentDescriptions-Fabric-1.20.4-20.0.3.jar
 https://cdn.modrinth.com/data/Ua7DFN59/versions/RXxBbRs7/YungsApi-1.20.4-Fabric-4.4.2.jar
-https://cdn.modrinth.com/data/VSNURh3q/versions/9Cu1rJ2H/c2me-fabric-mc1.20.4-0.2.0+alpha.11.65.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/B4y7zUNd/c2me-fabric-mc1.20.4-0.2.0+alpha.11.66.jar
 https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Hl6rexqr/chat_heads-0.10.32-fabric-1.20.3.jar
 https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6+1.20.1.jar
 https://cdn.modrinth.com/data/WuGVWUF2/versions/rA2OhPwU/FogLooksGoodNow-2.2.0+1.20.4.jar
@@ -83,7 +83,6 @@ https://cdn.modrinth.com/data/kYuIpRLv/versions/3Ky3FTbO/waveycapes-fabric-1.4.4
 https://cdn.modrinth.com/data/laNoi025/versions/EB17vw3U/screenshot_viewer-1.2.2-fabric-mc1.20.4.jar
 https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar
 https://cdn.modrinth.com/data/lmdANPd1/versions/8uSjprMJ/clear-enchanting-1.1.0.jar
-https://cdn.modrinth.com/data/m0oRwcZx/versions/fzCKxnmb/CameraOverhaul-1.4.0-fabric-universal.jar
 https://cdn.modrinth.com/data/mOgUt4GM/versions/w3icASIi/modmenu-9.1.0-beta.1.jar
 https://cdn.modrinth.com/data/n6PXGAoM/versions/Njd7x8bl/betterstats-3.9.7+fabric-1.20.4.jar
 https://cdn.modrinth.com/data/nmDcB62a/versions/EL78UqrQ/modernfix-fabric-5.16.1+mc1.20.4.jar
