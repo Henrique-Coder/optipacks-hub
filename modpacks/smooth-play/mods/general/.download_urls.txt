@@ -1,5 +1,5 @@
 https://cdn.modrinth.com/data/1bokaNcj/versions/a1aPoO3W/Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar
-https://cdn.modrinth.com/data/1eAoo2KR/versions/StXMrAsz/yet-another-config-lib-fabric-3.3.2+1.20.4.jar
+https://cdn.modrinth.com/data/1eAoo2KR/versions/dLAG06tP/YetAnotherConfigLib-3.4.1+1.20.4-fabric.jar
 https://cdn.modrinth.com/data/2Ok6dkOD/versions/5JU04HxV/bactromod-2.1.jar
 https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar
 https://cdn.modrinth.com/data/2UeET9aA/versions/UyPMp63T/tps-hud-1.7.0+1.20.3.jar
@@ -9,13 +9,16 @@ https://cdn.modrinth.com/data/3Vf97jLY/versions/kG0aSI4F/cursorcenteredfix-1.0.j
 https://cdn.modrinth.com/data/3sjzyvGR/versions/EmQx4ZGk/ModernUI-Fabric-1.20.4-3.10.1.5-universal.jar
 https://cdn.modrinth.com/data/4I1XuqiY/versions/up2Xg2sy/entity_model_features_fabric_1.20.4-2.0.jar
 https://cdn.modrinth.com/data/5ZwdcRci/versions/FEOsWs1E/ImmediatelyFast-Fabric-1.2.11+1.20.4.jar
+https://cdn.modrinth.com/data/5faXoLqX/versions/ZioCfzuX/Iceberg-1.20.4-fabric-1.1.18.jar
 https://cdn.modrinth.com/data/8iQcgjQ2/versions/RsM5hT4f/bettercommandblockui-0.5.1-1.20.3.jar
 https://cdn.modrinth.com/data/8qkXwOnk/versions/PLfxrDkh/morechathistory-1.3.0.jar
+https://cdn.modrinth.com/data/9NM0dXub/versions/Ev4dhUPQ/AdvancementPlaques-1.20.4-fabric-1.6.1.jar
 https://cdn.modrinth.com/data/9s6osm5g/versions/eBZiZ9NS/cloth-config-13.0.121-fabric.jar
 https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8+mc1.20.4.jar
 https://cdn.modrinth.com/data/BVzZfTc1/versions/6QKgVWs7/entity_texture_features_fabric_1.20.4-6.0.jar
 https://cdn.modrinth.com/data/BdKIyOLe/versions/Q3Z6GESL/Boat-Item-View-Fabric-1.20.1-0.0.5.jar
 https://cdn.modrinth.com/data/Bh37bMuy/versions/fkLiGoHs/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar
+https://cdn.modrinth.com/data/CcL3MXyI/versions/IpALOkuR/recursive-resources-2.5.2+1.20.4.jar
 https://cdn.modrinth.com/data/CcxcmoLQ/versions/XPNNg2I8/whoami-1.0.jar
 https://cdn.modrinth.com/data/DynYZEae/versions/WyhKYeMf/exordium-fabric-1.2.1-mc1.20.4.jar
 https://cdn.modrinth.com/data/EIa1eiMm/versions/mTd2QOfb/sodium-shadowy-path-blocks-3.2.1.jar
@@ -28,14 +31,14 @@ https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-
 https://cdn.modrinth.com/data/HfZKWsjM/versions/u1zZ3s9p/better-suggestions-1.20.4-1.2.4.jar
 https://cdn.modrinth.com/data/Jw3Wx1KR/versions/qrjEOkM4/antighost-1.20.4-fabric0.91.2-1.1.5.jar
 https://cdn.modrinth.com/data/Kw73iLDq/versions/NlUT8J1k/EffectDescriptions-v20.4.0-1.20.4-Fabric.jar
-https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/5GATAz7a/noxesium-1.2.0.jar
-https://cdn.modrinth.com/data/LQ3K71Q1/versions/shfvdKKK/dynamic-fps-3.4.2+minecraft-1.20.4-fabric.jar
+https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/tz40fXWJ/noxesium-1.2.1.jar
+https://cdn.modrinth.com/data/LQ3K71Q1/versions/48hFxWw7/dynamic-fps-3.4.3+minecraft-1.20.0-fabric.jar
 https://cdn.modrinth.com/data/M08ruV16/versions/jGGumR4a/bobby-5.1.0+mc1.20.4.jar
 https://cdn.modrinth.com/data/MBAkmtvl/versions/U79V1VMr/balm-fabric-1.20.4-9.0.7.jar
 https://cdn.modrinth.com/data/MOqt4Z5n/versions/DFrrKCKP/chatpatches-204.6.4.jar
-https://cdn.modrinth.com/data/MPCX6s5C/versions/ZLjUeuU8/notenoughanimations-fabric-1.7.1-mc1.20.4.jar
+https://cdn.modrinth.com/data/MPCX6s5C/versions/RBsRL6uP/notenoughanimations-fabric-1.7.2-mc1.20.4.jar
 https://cdn.modrinth.com/data/NK39zBp2/versions/zzelzVhK/blur-3.2.0.jar
-https://cdn.modrinth.com/data/NKvLVQMc/versions/XhG7ECKc/symbol-chat-1.20.4-1.2.1.jar
+https://cdn.modrinth.com/data/NKvLVQMc/versions/oGuRJtP5/symbol-chat-1.20.4-1.2.2.jar
 https://cdn.modrinth.com/data/NNAgCjsB/versions/7JR5qJ8f/entityculling-fabric-1.6.4-mc1.20.4.jar
 https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17+-1.1.5.jar
 https://cdn.modrinth.com/data/O7RBXm3n/versions/GR7zopVV/InventoryProfilesNext-fabric-1.20.3-1.10.10.jar
@@ -48,7 +51,7 @@ https://cdn.modrinth.com/data/QdG47OkI/versions/r6uVoUxU/modelfix-1.14-fabric.ja
 https://cdn.modrinth.com/data/QwxR6Gcd/versions/aQYNRsGo/Debugify-1.20.4+1.1.jar
 https://cdn.modrinth.com/data/REfW2AEX/versions/1BZ0wHLG/InvMove-1.20-0.8.5-Fabric.jar
 https://cdn.modrinth.com/data/RLzHAoZe/versions/FRaO0T57/Resourcify (1.20.2+-fabric)-1.3.3.jar
-https://cdn.modrinth.com/data/RfFxanNh/versions/zx4xEEfX/fasterrandom-3.0.4.jar
+https://cdn.modrinth.com/data/RfFxanNh/versions/IesUVZLv/fasterrandom-4.0.0.jar
 https://cdn.modrinth.com/data/SNVQ2c0g/versions/Qjx3vUgd/mru-0.4.0+1.20.4.jar
 https://cdn.modrinth.com/data/TPAYeAOc/versions/CWNevmPz/deathlog-0.3.2+1.20.3.jar
 https://cdn.modrinth.com/data/TqCKvqjC/versions/r45QO9Cd/loadmyresources_fabric_1.0.4_MC_1.20.2.jar
@@ -60,7 +63,7 @@ https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Hl6rexqr/chat_heads-0.10.32-fabr
 https://cdn.modrinth.com/data/WhbRG4iK/versions/flPXaySR/fallingleaves-1.15.6+1.20.1.jar
 https://cdn.modrinth.com/data/WuGVWUF2/versions/rA2OhPwU/FogLooksGoodNow-2.2.0+1.20.4.jar
 https://cdn.modrinth.com/data/XLd8Sh64/versions/bodOtPPx/numeralping-1.2.2.jar
-https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar
+https://cdn.modrinth.com/data/YL57xq9U/versions/45ETshvT/iris-1.7.0+mc1.20.4.jar
 https://cdn.modrinth.com/data/YsFycamt/versions/O58twUdh/ResourcePackOverrides-v20.4.2-1.20.4-Fabric.jar
 https://cdn.modrinth.com/data/ZP7xHXtw/versions/z7qf9qvt/rrls-4.0.3+mc1.20.4-fabric.jar
 https://cdn.modrinth.com/data/ZcR9weSm/versions/UrOG4IKT/dynamiccrosshair-7.7+1.20.4-fabric.jar
@@ -79,13 +82,13 @@ https://cdn.modrinth.com/data/iZ10HXDj/versions/DKf2Lu0n/FpsReducer2-fabric-1.20
 https://cdn.modrinth.com/data/iqK5uv72/versions/fHvfA2My/serverpingerfixer-1.0.4.jar
 https://cdn.modrinth.com/data/j2HhbEE7/versions/ihis4OcC/emitrades-fabric-1.3.0+mc1.20.4.jar
 https://cdn.modrinth.com/data/j6yrZogB/versions/34diMw6L/smoothgui-0.1.0.jar
-https://cdn.modrinth.com/data/kYuIpRLv/versions/3Ky3FTbO/waveycapes-fabric-1.4.4-mc1.20.4.jar
+https://cdn.modrinth.com/data/kYuIpRLv/versions/viGrmqvI/waveycapes-fabric-1.4.5-mc1.20.4.jar
 https://cdn.modrinth.com/data/laNoi025/versions/EB17vw3U/screenshot_viewer-1.2.2-fabric-mc1.20.4.jar
 https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar
 https://cdn.modrinth.com/data/lmdANPd1/versions/8uSjprMJ/clear-enchanting-1.1.0.jar
-https://cdn.modrinth.com/data/mOgUt4GM/versions/w3icASIi/modmenu-9.1.0-beta.1.jar
+https://cdn.modrinth.com/data/mOgUt4GM/versions/ybV7vGT5/modmenu-9.2.0-beta.2.jar
 https://cdn.modrinth.com/data/n6PXGAoM/versions/Njd7x8bl/betterstats-3.9.7+fabric-1.20.4.jar
-https://cdn.modrinth.com/data/nmDcB62a/versions/EL78UqrQ/modernfix-fabric-5.16.1+mc1.20.4.jar
+https://cdn.modrinth.com/data/nmDcB62a/versions/CV2Vtn5m/modernfix-fabric-5.17.0+mc1.20.4.jar
 https://cdn.modrinth.com/data/nrikgvxm/versions/soqqh6x4/particle-rain-2.0.8.jar
 https://cdn.modrinth.com/data/nvQzSEkH/versions/fNHCa6bl/Jade-1.20.4-fabric-13.3.1.jar
 https://cdn.modrinth.com/data/ohNO6lps/versions/xbVGsTLe/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar
