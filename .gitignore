@@ -7,7 +7,7 @@ __pycache__
 .debug
 
 # Files
-# ...
+requirements.txt
 
 # Extensions
 *.update_count
