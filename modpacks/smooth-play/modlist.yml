@@ -69,7 +69,6 @@ general:
 - load-my-resources
 - make_bubbles_pop
 - memoryleakfix
-- mixintrace
 - mod-loading-screen
 - modelfix
 - modern-ui
