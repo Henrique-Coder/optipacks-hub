@@ -10,4 +10,4 @@ __pycache__
 requirements.txt
 
 # Extensions
-*.update_count
+*.env
