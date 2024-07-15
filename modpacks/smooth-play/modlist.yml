@@ -25,7 +25,6 @@ general:
 - client-tweaks
 - cloth-config
 - cull-leaves
-- cursorcentered-fix
 - deathlog
 - debugify
 - dont-untoggle-sprint
@@ -47,7 +46,7 @@ general:
 - fallingleaves
 - faster-random
 - ferrite-core
-- fog-looks-good-now-fabric
+- fog
 - forge-config-api-port
 - fps-reducer
 - freelook
@@ -113,7 +112,6 @@ general:
 - whoami
 - xaeros-minimap
 - yacl
-- yungs-api
 - zoomify
 gpu-specific:
   amd: []
